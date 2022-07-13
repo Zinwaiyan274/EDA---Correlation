@@ -4,3 +4,8 @@ In this notebook, I plot visualization  and test Different methods of calculatin
 - Pearson
 - Kendall  
 - Spearman 
+
+> This is the part of the journey of [ODaD](https://github.com/Zinwaiyan274/One-DS-a-day)
+
+#ODaD
+#Day4
